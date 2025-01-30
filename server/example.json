@@ -1,0 +1,33 @@
+[
+  {
+    "timestamp": "2025-01-24T12:30:00Z",
+    "top_signals": [
+      { "signal_name": "Signal_A", "loss_score": 85.34 },
+      { "signal_name": "Signal_B", "loss_score": 74.21 },
+      { "signal_name": "Signal_C", "loss_score": 69.56 }
+    ]
+  },
+  {
+    "timestamp": "2025-01-24T12:20:00Z",
+    "top_signals": [
+      { "signal_name": "Signal_X", "loss_score": 89.21 },
+      { "signal_name": "Signal_Y", "loss_score": 78.45 },
+      { "signal_name": "Signal_Z", "loss_score": 72.89 }
+    ]
+  },
+  {
+    "timestamp": "2025-01-24T12:10:00Z",
+    "top_signals": [
+      { "signal_name": "Signal_P", "loss_score": 65.75 },
+      { "signal_name": "Signal_Q", "loss_score": 58.34 }
+    ]
+  },
+  {
+    "timestamp": "2025-01-24T11:50:00Z",
+    "top_signals": [
+      { "signal_name": "Signal_R", "loss_score": 91.45 },
+      { "signal_name": "Signal_S", "loss_score": 83.67 },
+      { "signal_name": "Signal_T", "loss_score": 76.89 }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* topics: ['Basic Algebra', 'Geometry Basics', 'Decimals and Fractions', 'Data Handling'],
+videos: {
+  'Basic Algebra': 'https://youtu.be/jLkRJWpqvPc?si=kN_9roB9rYVGHIc1',
+  'Electric Current & Its Effect': 'https://youtu.be/RntRZmehJJk?si=jOx2Hv_5DVo5MJVq',
+  'Exploring Switches, Conductors, and Insulators in Electric Circuits': 'https://youtu.be/9H-2wjawhyI?si=Y_yj5IfA2jHBaSZr',
+  'Data Handling': 'https://youtu.be/random_video_link3'
+}, */
